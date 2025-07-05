@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-siddi-58b325312)  
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshsiddi06@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddilokesh06@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/LokeshSiddi)
 
 ---
