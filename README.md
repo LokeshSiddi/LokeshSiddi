@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Lokesh Siddi</h1>
-<h3 align="center">Java Backend Developer | Microservices & Event-Driven Systems | AI Integrator</h3>
+<h3 align="center">Java Backend Developer | Microservices & Event-Driven Architecture Designer | AI Integrator</h3>
 
 ---
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Personalized Diet Suggestions  
 - Vitals-Based Safety Recommendations  
 
-🛠️ Stack: Java • Spring Boot • PostgreSQL • MongoDB • React • REST APIs • Event Messaging
+🛠️ Stack: Java • Spring Boot • PostgreSQL • MongoDB • React • REST APIs • Event Messaging • Keycloak
 
 ---
 
