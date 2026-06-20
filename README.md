@@ -1,82 +1,103 @@
-
-
-<!--
-**LokeshSiddi/LokeshSiddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hi 👋, I'm Lokesh Siddi</h1>
-<h3 align="center">Java Backend Developer | Microservices & Event-Driven Architecture Designer | AI Integrator</h3>
-
----
-
-🎯 I'm a backend-focused developer building secure, scalable systems with **Spring Boot and Microservices**  
-💡 Currently developing a **full stack health platform** using **event-driven architecture**  
-🧠 Future interests: **DevSecOps**, **Cloud-native DevOps**, and **Quantum Computing** as a hobby
-
----
-
-### 🚀 Current Project: Smart Health AI Platform
-
-📲 Collects metrics from smartwatches (device-agnostic)  
-🧩 Built on **Microservices + Event-Driven Architecture (RabbitMQ/Kafka planned)**  
-🤖 Integrates **Gemini 2.0 Flash API** to deliver:
-- Health Tips  
-- Personalized Diet Suggestions  
-- Vitals-Based Safety Recommendations  
-
-🛠️ Stack: Java • Spring Boot • PostgreSQL • MongoDB • React • REST APIs • Event Messaging • Keycloak
-
----
-
-### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### 📚 Learning Roadmap
-
-- ✅ Mastering **Java Microservices & Event-Driven Patterns**
-- 🐳 Starting soon: **Docker**, **Kubernetes**, and **CI/CD Pipelines**
-- 🔐 Diving into **DevSecOps** tools and practices
-- 🤖 Exploring **AI-assisted backend workflows**
-- 🧠 Quantum Computing – a creative tech hobby on the side
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi, I'm Lokesh Siddi 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LokeshSiddi&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokeshSiddi&theme=radical" />
+Backend Developer • Java • Spring Boot • Microservices
 </p>
 
 ---
 
-### 🔗 Connect With Me
+## About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-siddi-58b325312)  
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddilokesh06@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/LokeshSiddi)
+- 🎓 Final Year B.Sc Computer Science Student
+- 💻 Interested in Backend Engineering, Distributed Systems, and Cloud Technologies
+- 🌱 Currently learning Linux, Networking, Docker, and System Design
+- 🚀 Building projects with Spring Boot, Microservices, AI APIs, and Event-Driven Architectures
+- 📍 India
 
 ---
 
-⚡ *Engineering intelligent systems with microservices today — exploring the future through AI and quantum tomorrow.*
+## Featured Projects
+
+### Smart-Fit AI
+AI-powered fitness platform built with microservices.
+
+**Tech:** Java, Spring Boot, PostgreSQL, MongoDB, RabbitMQ, Eureka, Config Server, Gemini AI
+
+**Highlights**
+- Microservices architecture
+- Event-driven communication
+- Service discovery using Eureka
+- AI-powered health recommendations
+
+---
+
+### ReplyAI
+AI-powered email reply generation platform.
+
+**Tech:** Java, Spring Boot, React, Gemini AI
+
+**Highlights**
+- Generates contextual email responses
+- Tone-aware reply generation
+- Full-stack application architecture
+
+---
+
+### FinFlow
+Personal finance management application.
+
+**Tech:** Java, Spring Boot, PostgreSQL
+
+**Highlights**
+- Expense tracking
+- Transaction management
+- Financial reporting
+
+---
+
+## Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Messaging & Infrastructure
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## Currently Exploring
+
+- Linux
+- Docker
+- CI/CD
+- Cloud Computing
+- Distributed Systems
+- System Design
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LokeshSiddi&show_icons=true" />
+</p>
+
+---
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/lokesh-siddi-58b325312)
+
+Email: lokeshsiddi06@gmail.com
+
+GitHub: https://github.com/LokeshSiddi
